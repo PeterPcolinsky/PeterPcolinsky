@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter Pčolinský
 
-<!--
-**PeterPcolinsky/PeterPcolinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Java Junior Developer**  
+💻 Passionate about backend development, object-oriented programming, and building practical applications.  
+📚 Constantly learning and improving my skills through real projects and challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, SQL, HTML, CSS, JavaScript
+- **Frameworks & Tools:** Spring Boot, Maven, React
+- **Databases:** MySQL
+- **Other tools:** IntelliJ IDEA, Git, GitHub, Bootstrap
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/peter-pcolinsky/)
+- 📧 [pcolinsky.peter@centrum.sk](mailto:pcolinsky.peter@centrum.sk)
+
+---
+
+## 🚀 Featured Projects
+- 📋 [ToDoApp](https://github.com/PeterPcolinsky/ToDoApp) – Simple Java console application to add, view, complete, and delete tasks in a to-do list.
+- 💰 [CostCalculator](https://github.com/PeterPcolinsky/CostCalculator) – Simple Java console application to manage incomes, expenses, and calculate current balance with validation.
