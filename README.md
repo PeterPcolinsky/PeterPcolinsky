@@ -1,100 +1,69 @@
-# 👋 Hi, I'm **Peter Pčolinský**
-### 🚀 Aspiring Java Junior Developer  
-Focused on backend, clean architecture, and fullstack development with Java & React.
+# 👋 Hi, I'm Peter
 
-I’m currently mastering **Java, Spring Boot, REST APIs, SQL, and fullstack application workflows** through real, end-to-end projects.
+### Aspiring Java Junior Developer | Backend Oriented | Spring Boot • MySQL • REST • React
 
----
-
-## 🎾 **My Latest Fullstack Project**
-# **TennisMate – Fullstack Tennis Management App**
-
-🧩 **Tech Stack:**  
-Spring Boot (REST API) • MySQL • JPA/Hibernate • React (Vite) • Spring Security • Basic Auth (ADMIN/USER)
-
-**Key Features:**
-- 👤 Player management  
-- 🏆 Live leaderboard (win-rate calculation)  
-- 🎮 Add & delete matches  
-- 🔐 Role-based authentication (ADMIN/USER)  
-- 📊 Real-time stats  
-- ✔ Full CRUD + validation  
-- 🎨 Clean, responsive UI  
-
-📌 **GitHub:**  
-➡️ https://github.com/PeterPcolinsky/TennisApp
+I'm passionate about building practical applications that solve real problems.  
+I focus on writing clean, maintainable code, understanding backend architecture, and continuously improving through real projects and learning.
 
 ---
 
-## 🛠 **Tech Stack**
+## 🚀 Featured Project
 
-### **Languages**
-- Java  
-- SQL  
-- JavaScript  
-- HTML, CSS  
+### 🎾 TennisMate – Fullstack Tennis Management App  
+**Spring Boot • REST API • MySQL • JPA/Hibernate • React • Authentication**
 
-### **Backend**
-- Spring Boot (REST)  
-- Spring Security  
-- JPA / Hibernate  
-- Maven  
+✔ Manage players  
+✔ Add & track matches  
+✔ Live leaderboard & win-rate logic  
+✔ Role-based access (ADMIN/USER)  
+✔ CSV fallback + MySQL profiles  
 
-### **Frontend**
-- React (Vite)  
-- Fetch API  
-- Basic Auth integration  
-
-### **Databases**
-- MySQL  
-- H2 (testing)
-
-### **Tools**
-- IntelliJ IDEA  
-- Git & GitHub  
-- Postman  
-- PhpMyAdmin  
-- Bootstrap  
+👉 **Repository:** `https://github.com/PeterPcolinsky/TennisApp`  
+📌 *More screenshots and short demo coming soon.*
 
 ---
 
-## 📚 **What I'm Currently Learning**
-- Advanced Java OOP & design  
-- Spring Boot best practices  
-- Fullstack workflows (API → DB → React UI)  
-- Writing clean, testable code  
-- Building production-ready structures  
+## 🧰 Tech Stack
+
+**Languages:** Java (primary), SQL, JavaScript  
+**Backend:** Spring Boot, REST API, JPA/Hibernate  
+**Database:** MySQL, H2, CSV fallback  
+**Frontend:** React (Vite), JavaScript, HTML/CSS  
+**Tools:** IntelliJ IDEA, Git, Maven, Postman  
 
 ---
 
-## 💼 **Featured Projects**
+## 📄 Highlights
 
-### 🎾 **TennisMate – Fullstack Tennis Management System**  
-➡ Spring Boot + MySQL + React  
-➡ Full CRUD, validation, security  
-➡ Leaderboard & match statistics  
-📌 https://github.com/PeterPcolinsky/TennisApp
-
----
-
-### 📋 **ToDoApp**  
-Simple console app for managing tasks.  
-📌 https://github.com/PeterPcolinsky/ToDoApp
+- 💪 Developed multiple backend applications from scratch  
+- 🔄 Implemented migration from CSV → H2 → MySQL  
+- 🔐 Added authentication and role-based access  
+- 🧪 Started adding unit tests with JUnit5  
+- 🧩 Learned OOP, Collections, Streams, Exceptions, API calls, and basic React architecture  
+- ☑️ Still improving daily
 
 ---
 
-### 💰 **CostCalculator**  
-Console app for income/expense tracking with validation.  
-📌 https://github.com/PeterPcolinsky/CostCalculator
+## 📈 Currently Working On
+
+- Writing unit & integration tests for TennisMate  
+- Improving front-end UI/UX (React components, validation, error handling)  
+- Building next project using Spring Security + CRUD best practices  
 
 ---
 
-## 🔗 **Connect with Me**
-- 📫 Email: **pcolinsky.peter@centrum.sk**  
-- 🔗 LinkedIn: **https://linkedin.com/in/peter-pcolinsky/**  
+## 🎯 What I'm Looking For
+
+A Junior Java Developer role, internship opportunity, or remote position where I can grow, write production code, and contribute to real-world projects.
 
 ---
 
-## ✨ **About Me**
-I’m switching careers into IT with full commitment and discipline.  
-I love creating applications that are **clean, functional, and easy to use** — and each new project helps me push my skills to the next level.
+## 📬 Contact
+
+📧 Email: pcolinsky.peter@centrum.sk  
+🔗 LinkedIn: https://www.linkedin.com/in/peter-pcolinsky  
+🔧 GitHub: https://github.com/PeterPcolinsky
+
+---
+
+### Thanks for stopping by!
