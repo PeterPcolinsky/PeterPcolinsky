@@ -18,7 +18,7 @@ I focus on writing clean, maintainable code, understanding backend architecture,
 ✔ Role-based access (ADMIN/USER)  
 ✔ CSV fallback + MySQL profiles  
 
-👉 **Repository:** `https://github.com/PeterPcolinsky/TennisApp`  
+👉 **Repository:** https://github.com/PeterPcolinsky/TennisApp 
 📌 *More screenshots and short demo coming soon.*
 
 ---
